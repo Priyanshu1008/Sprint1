@@ -1,0 +1,112 @@
+/* ================================
+   GLOBAL STYLES
+================================== */
+body {
+  background-color: #f9f9f9;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Utility classes */
+.section-title {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* ================================
+   LOGIN & REGISTER
+================================== */
+#loginForm, #registerForm {
+  max-width: 400px;
+  margin: auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* ================================
+   HOMEPAGE
+================================== */
+#homeNav .nav-link {
+  font-size: 1.1rem;
+  margin-right: 15px;
+}
+
+/* ================================
+   BOOKING CUSTOMER
+================================== */
+#bookingForm {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* ================================
+   BOOKING OFFICER
+================================== */
+.list-group-item h6 {
+  margin-bottom: 5px;
+}
+
+/* ================================
+   PAY BILL
+================================== */
+#paymentForm {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* ================================
+   INVOICE
+================================== */
+.card h5 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+/* ================================
+   TRACK STATUS
+================================== */
+#trackResult {
+  max-width: 600px;
+  margin-top: 20px;
+}
+
+/* ================================
+   DELIVERY UPDATE
+================================== */
+#updateForm {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* ================================
+   PICKUP SCHEDULE
+================================== */
+#pickupForm {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* ================================
+   CUSTOMER SUPPORT
+================================== */
+#supportForm {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* ================================
+   HISTORY TABLES
+================================== */
+table {
+  background-color: #fff;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+/* ================================
+   NAVIGATION BAR
+================================== */
+.navbar-brand {
+  font-weight: bold;
+}
